@@ -1,2 +1,0 @@
-# batu
-ınsertionSortProject
