@@ -1,7 +1,5 @@
 # Merge Sort Projesi
 
-## [16,21,11,8,12,22] 
-
 ## 1. [16,21,11,8,12,22] dizisnin merge sort türüne göre aşamalarını yazınız.
 
 ```
